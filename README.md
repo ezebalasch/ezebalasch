@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Ezequiel, a Full Stack Developer 👨‍💻</div>  
 
-  - 🔭 I’m currently working on https://github.com/ezebalasch/JPA  
+  - 🔭 I’m currently working on https://github.com/ezebalasch/Spring-1  
   
 
 - 🌱 I’m currently learning about Spring 
